@@ -3036,7 +3036,7 @@ input[type="button"].small,
 
   #header {
     background-attachment: scroll, scroll, scroll;
-    background-image: url("top-1600.svg"), url("overlay.png"), url("header.jpg");
+    background-image: asset_url("top-1600.svg"), asset_url("overlay.png"), asset_url("header.jpg");
     background-size: 1600px 230px, auto, cover;
     padding: 6em 0 12em 0;
   }
