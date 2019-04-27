@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eccc7140-3545-49bc-ba28-17d72c8fac7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/bottom-1280.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/bottom-1600.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/bottom-3200.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/pic01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/pic02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/pic03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/top-1280.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/top-1600.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/top-3200.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/xoverlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/breakpoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/browser.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/static/index.html.erb" afterDir="false" />
-    </list>
+    <list default="true" id="eccc7140-3545-49bc-ba28-17d72c8fac7d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -428,16 +400,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556154620879</updated>
-      <workItem from="1556154622377" duration="15822000" />
+      <workItem from="1556154622377" duration="16092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15822000" />
+    <option name="totallyTimeSpent" value="16092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
