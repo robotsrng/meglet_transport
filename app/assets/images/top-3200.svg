@@ -1,23 +1,111 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3200px" height="460px" viewBox="0 0 3200 460" zoomAndPan="disable">
-
-    <style type="text/css"><![CDATA[
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3200px"
+   height="460px"
+   viewBox="0 0 3200 460"
+   zoomAndPan="disable"
+   version="1.1"
+   id="svg1770"
+   sodipodi:docname="top-3200.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <metadata
+     id="metadata1776">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1774" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     id="namedview1772"
+     showgrid="false"
+     inkscape:zoom="5.0346003"
+     inkscape:cx="2290.5954"
+     inkscape:cy="249.58023"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1770" />
+  <style
+     type="text/css"
+     id="style1756"><![CDATA[
 		line { stroke-width: 1px; }
 		line.upper { stroke: rgba(224,224,224,0.15); }
 		line.lower { stroke: rgba(224,224,224,0.75); }
 		polygon.one { fill: #f8f8f8; }
 		polygon.two { fill: #ffffff; }
-    ]]></style>	
-
-	<!-- Backgrounds -->
-		<polygon points="0,50 1600,410 3200,50 3200,460 0,460" class="one" />
-		<polygon points="0,100 1600,460 3200,100 3200,460 0,460" class="two" />
-
-	<!-- Upper lines -->
-		<line x1="0" y1="0" x2="1600" y2="360" class="upper" />
-		<line x1="1600" y1="360" x2="3200" y2="0" class="upper" />
-
-	<!-- Lower Lines -->
-		<line x1="0" y1="100" x2="1600" y2="460" class="lower" />
-		<line x1="1600" y1="460" x2="3200" y2="100" class="lower" />
-
+    ]]></style>
+  <!-- Backgrounds -->
+  <polygon
+     points="0,50 1600,410 3200,50 3200,460 0,460"
+     class="one"
+     id="polygon1758" />
+  <polygon
+     points="0,100 1600,460 3200,100 3200,460 0,460"
+     class="two"
+     id="polygon1760" />
+  <!-- Upper lines -->
+  <line
+     x1="0"
+     y1="0"
+     x2="1600"
+     y2="360"
+     class="upper"
+     id="line1762" />
+  <line
+     x1="1600"
+     y1="360"
+     x2="3200"
+     y2="0"
+     class="upper"
+     id="line1764" />
+  <!-- Lower Lines -->
+  <line
+     x1="0"
+     y1="100"
+     x2="1600"
+     y2="460"
+     class="lower"
+     id="line1766" />
+  <line
+     x1="1600"
+     y1="460"
+     x2="3200"
+     y2="100"
+     class="lower"
+     id="line1768" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 0,50 V 0 H 3200 V 50 L 1600,410 0,50"
+     id="path1782"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:0.98000004;fill:#fcd154;fill-opacity:1;stroke:none;stroke-width:18.01838875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 814.72505,235.56208 C 385.04957,139.74128 26.053686,59.318788 17.197905,56.797842 L 0.8989,52.975929 V 26.476388 2.975929 H 1600.4494 3200 V 26.487964 50 l -16.2196,3.702725 C 3003.3858,94.068407 1605.0268,412.38099 1600.2246,412.97592 1596.5152,413.43547 1244.6979,331.4492 814.72505,235.56208 Z"
+     id="path1784"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sscccccccccs" />
 </svg>

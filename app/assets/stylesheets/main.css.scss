@@ -2705,16 +2705,33 @@ input[type="button"].small,
 
 #header {
   background-attachment: scroll, scroll, fixed;
-  background-image: url("top-3200.svg"), url("overlay.png"), url("header.jpg");
-  background-position: bottom center, top left, center center;
-  background-repeat: repeat-x, repeat, no-repeat;
-  background-size: 3200px 460px, auto, cover;
+  background-image: url("top-3200.svg"), url("gravel_bg.jpg"), url("header.jpg");
+  background-position: bottom center,center center, center center;
+  background-repeat: repeat-x, no-repeat, no-repeat;
+  background-size: 3200px 460px, cover, cover;
   color: rgba(255, 255, 255, 0.8);
   padding: 10em 0 20em 0;
   position: relative;
   text-align: center;
 }
+#header .header-text{
+  border-top: solid 3px black;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+30,fcd154+72 */
+  background: #ffffff; /* Old browsers */
+  background: -moz-linear-gradient(top, #ffffff 30%, #fcd154 72%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #ffffff 30%,#fcd154 72%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #ffffff 30%,#fcd154 72%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#fcd154',GradientType=0 ); /* IE6-9 */
+  color: black !important;
+  width: 100%;
+}
 
+#header .header-text h1{
+  color: black !important;
+}
+#header .header-text h2{
+  color: black !important;
+}
 #header:before, #header:after {
   background: rgba(224, 224, 224, 0.75);
   content: '';
@@ -2737,7 +2754,7 @@ input[type="button"].small,
 
 #header a {
   border-bottom-color: rgba(255, 255, 255, 0.35);
-  color: rgba(255, 255, 255, 0.8);
+  //color: rgba(255, 255, 255, 0.8);
 }
 
 #header a:hover {
@@ -2792,17 +2809,11 @@ input[type="button"].small,
 
 
 #header img.header-left{
-  left: 1%;
-  top: 5vh;
-  position: absolute;
-  width: 50%;
+  max-width: 30%;
   height: auto;
 }
 
 #header img.header-right{
-  right: 10%;
-  top: 5vh;
-  position: absolute;
   max-width: 30%;
 }
 
@@ -3056,8 +3067,8 @@ input[type="button"].small,
 
   #header {
     background-attachment: scroll, scroll, scroll;
-    background-image: asset_url("top-1600.svg"), asset_url("overlay.png"), asset_url("header.jpg");
-    background-size: 1600px 230px, auto, cover;
+    background-image: asset_url("top-1600.svg"), asset_url("gravel_bg.jpg"), asset_url("header.jpg");
+    background-size: 1600px 230px, cover, cover;
     padding: 6em 0 12em 0;
   }
 
@@ -3208,8 +3219,8 @@ input[type="button"].small,
   /* Header */
 
   #header {
-    background-image: url("top-1280.svg"), url("overlay.png"), url("header.jpg");
-    background-size: 1280px 184px, auto, cover;
+    background-image: url("top-1600.svg"), url("gravel_bg.jpg"), url("header.jpg");
+    background-size: 1280px 184px, cover, cover;
     padding: 3em 0 7em 0;
   }
 
