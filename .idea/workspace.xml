@@ -54,7 +54,7 @@
           <entry key="css" value="29" />
           <entry key="erb" value="3212" />
           <entry key="rb" value="25" />
-          <entry key="scss" value="955" />
+          <entry key="scss" value="1027" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -62,7 +62,7 @@
           <entry key="CSS" value="29" />
           <entry key="RHTML" value="3212" />
           <entry key="Ruby" value="25" />
-          <entry key="SCSS" value="955" />
+          <entry key="SCSS" value="1027" />
         </counts>
       </usages-collector>
     </session>
@@ -81,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="8" selection-end-column="12" />
+            <state relative-caret-position="267">
+              <caret line="3240" column="21" selection-start-line="3240" selection-start-column="21" selection-end-line="3240" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -134,7 +134,6 @@
       <find>overlay</find>
       <find>header-r</find>
       <find>auto</find>
-      <find>gravel</find>
       <find>header-te</find>
       <find>header a</find>
       <find>#0</find>
@@ -144,6 +143,7 @@
       <find>url</find>
       <find>asset_</find>
       <find>url(</find>
+      <find>gravel</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -431,12 +431,12 @@
       <option name="presentableId" value="Default" />
       <updated>1556154620879</updated>
       <workItem from="1556154622377" duration="21552000" />
-      <workItem from="1557089052465" duration="5918000" />
+      <workItem from="1557089052465" duration="6072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27470000" />
+    <option name="totallyTimeSpent" value="27624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -563,8 +563,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="8" selection-end-column="12" />
+        <state relative-caret-position="267">
+          <caret line="3240" column="21" selection-start-line="3240" selection-start-column="21" selection-end-line="3240" selection-end-column="21" />
         </state>
       </provider>
     </entry>
