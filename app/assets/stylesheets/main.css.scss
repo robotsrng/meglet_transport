@@ -126,8 +126,8 @@ a {
   -webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   -ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-  border-bottom: dotted 1px;
-  color: #4eb980;
+  //border-bottom: dotted 1px;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -1968,6 +1968,8 @@ blockquote {
 
 }
 
+.link-container{
+}
 /* Section/Article */
 
 section.special, article.special {
@@ -2759,7 +2761,7 @@ input[type="button"].small,
 
 #header a:hover {
   border-bottom-color: transparent;
-  color: #4eb980;
+  color: #2a7000;
 }
 
 #header strong, #header b {
@@ -2809,12 +2811,12 @@ input[type="button"].small,
 
 
 #header img.header-left{
-  max-width: 30%;
+  max-width: 300px;
   height: auto;
 }
 
 #header img.header-right{
-  max-width: 30%;
+  //max-width: 30%;
 }
 
 .top-spacer{
@@ -2842,7 +2844,7 @@ input[type="button"].small,
 
 #footer {
   background-attachment: scroll;
-  background-color: #4eb980;
+  background-color: #2a7000;
   background-image: asset_url("bottom-3200.svg");
   background-position: top center;
   background-repeat: repeat-x;
