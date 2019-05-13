@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Meglettransport</title>
+    <title><%= yield(:title) %></title>
+
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
     <meta name="viewport" content="width=device-width">
@@ -13,9 +14,9 @@
   <body>
   <!-- Header -->
   <div id="header">
-    <div class="header-logo icon "><%= image_tag "meglet_logo.png", class: 'header-right' %></div>
+    <div class="header-logo icon "><%= image_tag "meglet_logo.png", class: 'header-right', alt: 'Meglet Transportation and Gravel Delivery Logo' %></div>
     <br>
-    <%= image_tag "gravel_truck.png", class: 'header-left' %>
+    <%= image_tag "gravel_truck.png", class: 'header-left', alt: 'Meglet Transportation Gravel Truck' %>
     <!--  <div class=" top-spacer">-->
     <div class="header-text">
       <h1>Meglet Transport</h1>
